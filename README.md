@@ -3,7 +3,6 @@
 # Screenshots
    <div style="display:inline-block";>
     <img src="https://github.com/nav0713/images/blob/master/social1.png" width="300" height="600" title="hover text">
-   <div style="width:100px;height:600;background-color:red;display:inline";></div>
      <img src="https://github.com/nav0713/images/blob/master/social2.png" width="300" height="600" title="hover text">
   </div>
   <br>
