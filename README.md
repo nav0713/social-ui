@@ -3,17 +3,17 @@ A social media application UI built using Flutter/Dart
 
 # Screenshots
    <div style="display:inline-block";>
-    <img src="https://github.com/nav0713/images/blob/master/social1.png" width="300" height="600" title="hover text">
-     <img src="https://github.com/nav0713/images/blob/master/social2.png" width="300" height="600" title="hover text">
+    <img src="https://github.com/nav0713/images/blob/master/social1.png" width="280" height="600" title="hover text">
+     <img src="https://github.com/nav0713/images/blob/master/social2.png" width="280" height="600" title="hover text">
   </div>
   <br>
      <div style="display:inline-block";>
-   <img src="https://github.com/nav0713/images/blob/master/social3.png" width="300" height="600" title="hover text">
-     <img src="https://github.com/nav0713/images/blob/master/social4.png" width="300" height="600" title="hover text">
+   <img src="https://github.com/nav0713/images/blob/master/social3.png" width="280" height="600" title="hover text">
+     <img src="https://github.com/nav0713/images/blob/master/social4.png" width="280" height="600" title="hover text">
   </div>
   <br>
          <h3>         Application Demo</h3>
- <img src="https://media.giphy.com/media/eycgUxkBwRbBRAjmO6/giphy.gif" title="hover text">
+ <img src="https://media.giphy.com/media/M8PpClbdWjTMFpjpTa/giphy.gif" title="hover text">
 
 ## Getting Started
 
