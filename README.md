@@ -1,14 +1,19 @@
 # flutter_social_ui
 
 # Screenshots
-   <div style=display="inline-block";>
-    <img src="https://github.com/nav0713/images/blob/master/social1.png" width="400" height="600" title="hover text">
-     <img src="https://github.com/nav0713/images/blob/master/social2.png" width="400" height="600" title="hover text">
-     <img src="https://github.com/nav0713/images/blob/master/social3.png" width="400" height="600" title="hover text">
-     <img src="https://github.com/nav0713/images/blob/master/social4.png" width="400" height="600" title="hover text">
-  
+   <div style="display:inline-block";>
+    <img src="https://github.com/nav0713/images/blob/master/social1.png" width="300" height="600" title="hover text">
+   <div style="width:300px;height:600;background-color:red";></div>
+     <img src="https://github.com/nav0713/images/blob/master/social2.png" width="300" height="600" title="hover text">
   </div>
-
+  <br>
+     <div style="display:inline-block";>
+   <img src="https://github.com/nav0713/images/blob/master/social3.png" width="300" height="600" title="hover text">
+     <img src="https://github.com/nav0713/images/blob/master/social4.png" width="300" height="600" title="hover text">
+  </div>
+  <br>
+         <h3>         Application Demo</h3>
+ <img src="https://media.giphy.com/media/eycgUxkBwRbBRAjmO6/giphy.gif" title="hover text">
 
 ## Getting Started
 
