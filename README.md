@@ -13,7 +13,7 @@ A social media application UI built using Flutter/Dart
   </div>
   <br>
          <h3>         Application Demo</h3>
- <img src="https://github.com/nav0713/images/blob/master/dd.gif" title="hover text">
+ <img src="https://github.com/nav0713/images/blob/master/dd.gif" width="480" height="800" title="hover text">
 
 ## Getting Started
 
