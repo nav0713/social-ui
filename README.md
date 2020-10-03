@@ -1,4 +1,5 @@
 # flutter_social_ui
+A social media application UI built using Flutter/Dart
 
 # Screenshots
    <div style="display:inline-block";>
